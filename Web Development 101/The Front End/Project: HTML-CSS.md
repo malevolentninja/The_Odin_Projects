@@ -27,7 +27,10 @@ Next do the navbar across the top, first building the content and then trying to
 Finally, put in the footer, which should be very similar to the top navbar.
 In general, do as much on your own as you can before relying on the developer tools (or viewing the page's source code) to help you along.
 Push your project to Github using the instructions above!
-Difficult Version (optional): Build the Google.com search results page
+
+
+
+Difficult Version: Build the Google.com search results page
 
 You should be able to reuse much of your code from before if you started with that project. Again, don't worry about links to nowhere and forms that won't submit and hard coding the search results (which you'll have to do of course), just focus on placement and order of items on the page.
 

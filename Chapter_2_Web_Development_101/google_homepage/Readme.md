@@ -14,6 +14,7 @@ Create a mockup of the google homepage.
 
 This is an optional piece of work for the course.
 
+
 ### Odin Notes
 "Reuse much of your code from before...just focus on placement and order of items on the page."
 

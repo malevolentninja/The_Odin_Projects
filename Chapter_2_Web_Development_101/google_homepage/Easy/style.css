@@ -62,20 +62,22 @@ form {
 	width: 100%;
 	bottom: 0;
 	min-width: 980px;
-	a {
+}
+a {
 		color: lighten(black, 20%);
 		text-decoration: none;
-		&:hover {
+}
+	&:hover {
 			text-decoration: underline;
 		}
-	}
+	
 	.left {
 		float: left;
 		width: 45%;
 		&:first-child {
 			margin-left: 16px;
 		}
-	}
+	
 	.right {
 		float: right;
 		width: 45%;
@@ -83,14 +85,12 @@ form {
 		&:last-child {
 			margin-right: 18px;
 		}
-	}
-	ul {
-		li {
+	
+	ul li {
 			position: relative;
 			display: inline;
 			font-size: 13px;
 			top: 11px;
 			padding: 12px 13px;
 		}
-	}
-}
+
